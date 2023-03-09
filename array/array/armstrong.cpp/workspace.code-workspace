@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.vscode"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\class and object"
+		},
+		{
+			"path": "..\\..\\..\\function"
+		},
+		{
+			"path": "..\\..\\..\\recursion"
+		},
+		{
+			"path": "..\\..\\..\\series"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"1D.C": "cpp"
+		}
+	}
+}
